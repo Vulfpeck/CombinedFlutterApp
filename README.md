@@ -4,7 +4,7 @@ A Flutter app that implements various functionalities such as
   <li>State management through scoped model and rxdart</li>
   <li>Firebase email auth</li>
   <li>Firebase custom functions</li>
-  <li>Firebase realitime database with basic CRUD operations</li>
+  <li>Firebase realtime database with basic CRUD operations</li>
   <li>Obtaining user locations</li>
   <li>Accessing on device storage</li>
   <li>Some slick animations</li>
