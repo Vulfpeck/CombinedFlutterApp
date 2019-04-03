@@ -1,4 +1,4 @@
-# flutter_course
+# Flutter example and reference app
 A Flutter app that implements various functionalities such as 
 <ol>
   <li>State management through scoped model and rxdart</li>
