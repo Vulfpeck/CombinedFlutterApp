@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/location/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/8c85e4477bbec44d7a0b04f26ad45a8b/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/location/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/8c85e4477bbec44d7a0b04f26ad45a8b/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/location/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/8c85e4477bbec44d7a0b04f26ad45a8b/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

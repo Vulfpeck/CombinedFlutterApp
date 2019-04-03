@@ -1,0 +1,4 @@
+#Tue Mar 12 02:00:24 IST 2019
+base.0=/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fef139a17ea9ab5b67c17d2815f10eeb/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

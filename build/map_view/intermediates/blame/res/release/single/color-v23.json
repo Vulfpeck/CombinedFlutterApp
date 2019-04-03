@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/tushar/Documents/Development/Flutter projects/UdemyFlutterCourseApp/build/map_view/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/color-v23/abc_tint_default.xml"
+    }
+]
