@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:map_view/map_view.dart';
 import 'package:scoped_model/scoped_model.dart';
 
 import './models/product.dart';
@@ -11,11 +10,10 @@ import './pages/product.dart';
 import './pages/products.dart';
 import './pages/products_admin.dart';
 import './scoped-models/main.dart';
-import './shared/global_config.dart';
 import './widgets/helpers/custom_route.dart';
 
 main() {
-  MapView.setApiKey(mapKey);
+//  MapView.setApiKey(mapKey);
 
   runApp(MyApp());
 }

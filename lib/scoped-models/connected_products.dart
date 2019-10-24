@@ -3,18 +3,17 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:http/http.dart' as http;
+import 'package:http_parser/http_parser.dart';
+import 'package:mime/mime.dart';
 import 'package:rxdart/subjects.dart';
 import 'package:scoped_model/scoped_model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:mime/mime.dart';
-import 'package:http_parser/http_parser.dart';
 
+import '../global_config.dart';
 import '../models/auth.dart';
 import '../models/location_data.dart';
 import '../models/product.dart';
 import '../models/user.dart';
-
-import '../shared/global_config.dart';
 
 mixin ConnectedProductsModel on Model {
   List<Product> _products = [];
