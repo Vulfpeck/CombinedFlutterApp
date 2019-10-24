@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","image_picker|lib/image_picker.dart","flutter_course|lib/models/product.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":false}

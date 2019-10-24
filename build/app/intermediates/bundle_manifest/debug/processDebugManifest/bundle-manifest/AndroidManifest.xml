@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fluttercourse"
+    package="com.example.combined_flutter_app"
     android:versionCode="1"
     android:versionName="1.0.0" >
 
     <uses-sdk
         android:minSdkVersion="16"
         android:targetSdkVersion="28" />
-
     <!--
-         The INTERNET permission is required for development. Specifically,
-         flutter needs it to communicate with the running application
+         Flutter needs it to communicate with the running application
          to allow setting breakpoints, to provide hot reload, etc.
     -->
     <uses-permission android:name="android.permission.INTERNET" />
@@ -38,7 +36,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="EasyList" >
         <activity
-            android:name="com.example.fluttercourse.MainActivity"
+            android:name="com.example.combined_flutter_app.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
             android:hardwareAccelerated="true"
             android:launchMode="singleTop"
@@ -68,20 +66,21 @@
         <activity
             android:name="com.apptreesoftware.mapview.MapActivity"
             android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
-        <activity
-            android:name="io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity"
-            android:exported="false"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
 
         <provider
             android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-            android:authorities="com.example.fluttercourse.flutter.image_provider"
+            android:authorities="com.example.combined_flutter_app.flutter.image_provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/flutter_image_picker_file_paths" />
-        </provider> <!-- Needs to be explicitly declared on P+ -->
+        </provider>
+
+        <activity
+            android:name="io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" /> <!-- Needs to be explicitly declared on P+ -->
         <uses-library
             android:name="org.apache.http.legacy"
             android:required="false" />

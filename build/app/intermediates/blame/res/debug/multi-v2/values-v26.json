@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "/Users/tushar/AndroidStudioProjects/combined_flutter_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/res/values-v26/values-v26.xml",
+                    "source": "/Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/40d75a78b8864236032f37847778629d/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

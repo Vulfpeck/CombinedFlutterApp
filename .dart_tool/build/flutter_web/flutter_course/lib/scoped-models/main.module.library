@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["scoped_model|lib/scoped_model.dart","flutter_course|lib/scoped-models/connected_products.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

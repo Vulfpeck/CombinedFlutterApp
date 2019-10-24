@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","flutter_course|lib/widgets/ui_elements/logout_list_tile.dart","scoped_model|lib/scoped_model.dart","flutter_course|lib/widgets/products/products.dart","flutter_course|lib/scoped-models/main.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

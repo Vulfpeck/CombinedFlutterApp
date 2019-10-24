@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","flutter_course|lib/models/product.dart","flutter_course|lib/widgets/ui_elements/title_default.dart","flutter_course|lib/widgets/products/product_fab.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

@@ -1,304 +1,305 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:1:1-44:12
-INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:1:1-44:12
-INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:1:1-44:12
-INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:1:1-44:12
-MERGED from [:location] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
-MERGED from [:shared_preferences] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:map_view] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/map_view/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:url_launcher] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
-MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.1.aar/9103873a99f3dd45c41d2e0c1a5c555c/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:17:1-38:12
-MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2ce9712ff4fbc4da231d11e181a02e55/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/f3d47a9fd63c96e14e94d2cb514ebf34/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/0b0ac56e86811f1228b4361efb6c2ec0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/97e5a1f21196f8d3798f8a321299e0d8/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/c1647d796ab51a168bc7f904767cc709/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cb7507384cd69bdbb0d876c7201db0d5/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bb94784b616e133dbb83a2c069e56940/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/323c475414ae1b1f82b54216db8165ec/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/1adddea1dc45f5025f907b2f1c444f84/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/03c8cb9883ee05b75dc84ba46c0516a2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/37fe0a4d45bc9ae9a37594318c91b2ac/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f90a94a7a79e1180d6c992130d04e1c2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a169eb8fd9c40626bb2bf6838f2ef64f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/4327cdabad12e98fd8208acc0b20e844/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/6db0265fed73c9538e4a5f58195312b1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c8f42865282833355c3f44b882c00b49/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c856bb0a953f24d942dd8b1c43a32996/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/ac35c41b0a751178bbee3336a9614ab8/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/2cca09e7d09ea30bb95d4244ed1e8986/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fef139a17ea9ab5b67c17d2815f10eeb/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/5c23b0cec18adfbc3780c4da3742dae6/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/376f628a242018c80e294a5429983d3a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/a5811f82a277120be4491a120af9939f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ba4f40595230a176e84428c78d468860/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/51cca3335ab2b585a111008a7e895fe3/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/70c634da305d701f6dd462d573b8cd00/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/77b1e5f788f74c0c06abeabf1062e7fb/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d87eb1ffec96e75511358330bb08bd4e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/10cc10e88f08768a5d29202d2ce7b3ad/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/c63820184750afedbd92b533a66f548a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4917d335d3795c5b7871ec016370ca20/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:1:1-44:12
-INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:1:1-44:12
-INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:1:1-44:12
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:1:1-44:12
+MERGED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:1:1-44:12
+MERGED from [:location] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:map_view] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/map_view/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:url_launcher] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/40d75a78b8864236032f37847778629d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.1.aar/3f1562a25f06228f89c7e30ced43f947/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2445c93f07bf9593f1076c2349e88e58/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/71696f7f5bd3a9337e3e0f8a510958dc/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/8612990e07e8953dbb50d352f7b95eab/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/0d9c7509088da35bd7ac122e115cc4db/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/44bbb8777c3ff2c0f01e33562f3cc5b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/1084d84c87f259162752797713a501d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/4bc768349f71d930a86e0a137dc3f63e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/70f5566e6adf4dd9d807628a9af461cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/20c35a210639238fdfd9e6905890ed93/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/61ac98cd643d9d9b8342b23feca0de10/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/2effdb7153e103f98e1a4f5525ccf00b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/1ba48e4fd9b2ff14b4d8daaa6a61b975/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/d23e10282731aa73f0c70328d24a1aab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/9de5801571d6e30ea0dd47260734bd13/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/8e338c9f35b4acfa3cba192d2be38acd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/1a13eb1d1238a510489a12ed83641ddf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d190305f10c33407359a38515730b147/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/830fda8ea90ce7de0ab1a2e0db1efd8d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/68ee2cb9a127394c61004e3d581463a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/a47358d3bad235cfc983b6a426003584/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/663f7db883cf45b79c97871a11500b02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b0031fe2dde84c486740955a26f19eed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/eb4806682a5a1d6030ad75e3b024b904/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/019f7bfc70d9f86edbc39494b87c2c29/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/49025b82a2be1f5f289ab4a27ddfcec7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/af697b66c7abe17766619d9cf80809fc/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/bf2873121080241561bd012d51d9e872/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/66797d9fb16fea1d2667b6fba23ceae2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5dd050f4429889eaf63fe1de1b39039f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/b4742f1403ffe46a8fb87bec6c1322dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ae447fbca77c53de27580c5119ef3e7d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:2:5-40
-		INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:2:5-47
+		INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:1:1-44:12
-		INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:1:1-44:12
+		INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:1:1-44:12
-		INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:1:1-44:12
+		INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:8:5-66
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:24:5-67
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:8:22-64
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:8:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:9:5-78
-MERGED from [:location] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
-MERGED from [:location] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:9:5-78
+MERGED from [:location] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+MERGED from [:location] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
 	android:name
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:9:22-76
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:9:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:10:5-80
-MERGED from [:location] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
-MERGED from [:location] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:10:5-80
+MERGED from [:location] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+MERGED from [:location] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:10:22-78
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:10:22-78
 application
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:17:5-43:19
-MERGED from [:url_launcher] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
-MERGED from [:url_launcher] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
-MERGED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.1.aar/9103873a99f3dd45c41d2e0c1a5c555c/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.1.aar/9103873a99f3dd45c41d2e0c1a5c555c/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2ce9712ff4fbc4da231d11e181a02e55/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2ce9712ff4fbc4da231d11e181a02e55/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/f3d47a9fd63c96e14e94d2cb514ebf34/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/f3d47a9fd63c96e14e94d2cb514ebf34/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/0b0ac56e86811f1228b4361efb6c2ec0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/0b0ac56e86811f1228b4361efb6c2ec0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/97e5a1f21196f8d3798f8a321299e0d8/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/97e5a1f21196f8d3798f8a321299e0d8/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fef139a17ea9ab5b67c17d2815f10eeb/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fef139a17ea9ab5b67c17d2815f10eeb/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/5c23b0cec18adfbc3780c4da3742dae6/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/5c23b0cec18adfbc3780c4da3742dae6/AndroidManifest.xml:22:5-23:19
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:17:5-43:19
+MERGED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:url_launcher] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.1.aar/3f1562a25f06228f89c7e30ced43f947/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.1.aar/3f1562a25f06228f89c7e30ced43f947/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2445c93f07bf9593f1076c2349e88e58/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2445c93f07bf9593f1076c2349e88e58/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/71696f7f5bd3a9337e3e0f8a510958dc/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/71696f7f5bd3a9337e3e0f8a510958dc/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/8612990e07e8953dbb50d352f7b95eab/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/8612990e07e8953dbb50d352f7b95eab/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/0d9c7509088da35bd7ac122e115cc4db/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/0d9c7509088da35bd7ac122e115cc4db/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/a47358d3bad235cfc983b6a426003584/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/a47358d3bad235cfc983b6a426003584/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/af697b66c7abe17766619d9cf80809fc/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/af697b66c7abe17766619d9cf80809fc/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fef139a17ea9ab5b67c17d2815f10eeb/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/a47358d3bad235cfc983b6a426003584/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:19:9-33
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:19:9-33
 	android:icon
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:20:9-43
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:20:9-43
 	android:name
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:18:9-57
-activity#com.example.fluttercourse.MainActivity
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:21:9-41:20
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:18:9-57
+activity#com.example.combined_flutter_app.MainActivity
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:21:9-41:20
 	android:launchMode
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:23:13-43
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:23:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:26:13-47
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:26:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:27:13-55
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:27:13-55
 	android:configChanges
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:25:13-137
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:25:13-137
 	android:theme
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:24:13-47
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:24:13-47
 	android:name
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:22:13-41
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:22:13-41
 meta-data#com.google.android.gms.version
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:33:13-125
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:33:13-125
 	android:value
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:33:70-123
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:33:70-123
 	android:name
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:33:24-69
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:33:24-69
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:34:13-36:40
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:34:13-36:40
 	android:value
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:36:17-37
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:36:17-37
 	android:name
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:35:17-82
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:35:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:37:13-40:29
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:37:13-40:29
 action#android.intent.action.MAIN
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:38:17-68
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:38:17-68
 	android:name
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:38:25-66
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:39:17-76
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:39:17-76
 	android:name
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:39:27-74
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:39:27-74
 activity#com.apptreesoftware.mapview.MapActivity
-ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:42:9-134
+ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:42:9-134
 	android:theme
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:42:74-132
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:42:74-132
 	android:name
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml:42:19-73
+		ADDED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml:42:19-73
 uses-sdk
-INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
-MERGED from [:location] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:location] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:map_view] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/map_view/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:map_view] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/map_view/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.1.aar/9103873a99f3dd45c41d2e0c1a5c555c/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.1.aar/9103873a99f3dd45c41d2e0c1a5c555c/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/31fe8d2df95efb6c91eb8538c2051141/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2ce9712ff4fbc4da231d11e181a02e55/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2ce9712ff4fbc4da231d11e181a02e55/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/f3d47a9fd63c96e14e94d2cb514ebf34/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/f3d47a9fd63c96e14e94d2cb514ebf34/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/0b0ac56e86811f1228b4361efb6c2ec0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/0b0ac56e86811f1228b4361efb6c2ec0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/97e5a1f21196f8d3798f8a321299e0d8/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/97e5a1f21196f8d3798f8a321299e0d8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/c1647d796ab51a168bc7f904767cc709/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/c1647d796ab51a168bc7f904767cc709/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cb7507384cd69bdbb0d876c7201db0d5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cb7507384cd69bdbb0d876c7201db0d5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bb94784b616e133dbb83a2c069e56940/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bb94784b616e133dbb83a2c069e56940/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/323c475414ae1b1f82b54216db8165ec/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/323c475414ae1b1f82b54216db8165ec/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/1adddea1dc45f5025f907b2f1c444f84/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/1adddea1dc45f5025f907b2f1c444f84/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/03c8cb9883ee05b75dc84ba46c0516a2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/03c8cb9883ee05b75dc84ba46c0516a2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/37fe0a4d45bc9ae9a37594318c91b2ac/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/37fe0a4d45bc9ae9a37594318c91b2ac/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f90a94a7a79e1180d6c992130d04e1c2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f90a94a7a79e1180d6c992130d04e1c2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a169eb8fd9c40626bb2bf6838f2ef64f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a169eb8fd9c40626bb2bf6838f2ef64f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/4327cdabad12e98fd8208acc0b20e844/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/4327cdabad12e98fd8208acc0b20e844/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/6db0265fed73c9538e4a5f58195312b1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/6db0265fed73c9538e4a5f58195312b1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c8f42865282833355c3f44b882c00b49/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c8f42865282833355c3f44b882c00b49/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c856bb0a953f24d942dd8b1c43a32996/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c856bb0a953f24d942dd8b1c43a32996/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/ac35c41b0a751178bbee3336a9614ab8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/ac35c41b0a751178bbee3336a9614ab8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/2cca09e7d09ea30bb95d4244ed1e8986/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/2cca09e7d09ea30bb95d4244ed1e8986/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fef139a17ea9ab5b67c17d2815f10eeb/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fef139a17ea9ab5b67c17d2815f10eeb/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/5c23b0cec18adfbc3780c4da3742dae6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/5c23b0cec18adfbc3780c4da3742dae6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/376f628a242018c80e294a5429983d3a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/376f628a242018c80e294a5429983d3a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/a5811f82a277120be4491a120af9939f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/a5811f82a277120be4491a120af9939f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ba4f40595230a176e84428c78d468860/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ba4f40595230a176e84428c78d468860/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/51cca3335ab2b585a111008a7e895fe3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/51cca3335ab2b585a111008a7e895fe3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/70c634da305d701f6dd462d573b8cd00/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/70c634da305d701f6dd462d573b8cd00/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/77b1e5f788f74c0c06abeabf1062e7fb/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/77b1e5f788f74c0c06abeabf1062e7fb/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d87eb1ffec96e75511358330bb08bd4e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d87eb1ffec96e75511358330bb08bd4e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/10cc10e88f08768a5d29202d2ce7b3ad/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/10cc10e88f08768a5d29202d2ce7b3ad/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/c63820184750afedbd92b533a66f548a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/c63820184750afedbd92b533a66f548a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4917d335d3795c5b7871ec016370ca20/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4917d335d3795c5b7871ec016370ca20/AndroidManifest.xml:20:5-44
-INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml
+MERGED from [:location] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:map_view] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/map_view/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:map_view] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/map_view/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/40d75a78b8864236032f37847778629d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tushar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/40d75a78b8864236032f37847778629d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.1.aar/3f1562a25f06228f89c7e30ced43f947/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.1.aar/3f1562a25f06228f89c7e30ced43f947/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2445c93f07bf9593f1076c2349e88e58/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2445c93f07bf9593f1076c2349e88e58/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/71696f7f5bd3a9337e3e0f8a510958dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/71696f7f5bd3a9337e3e0f8a510958dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/8612990e07e8953dbb50d352f7b95eab/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/8612990e07e8953dbb50d352f7b95eab/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/0d9c7509088da35bd7ac122e115cc4db/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/0d9c7509088da35bd7ac122e115cc4db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/44bbb8777c3ff2c0f01e33562f3cc5b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/44bbb8777c3ff2c0f01e33562f3cc5b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/1084d84c87f259162752797713a501d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/1084d84c87f259162752797713a501d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/4bc768349f71d930a86e0a137dc3f63e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/4bc768349f71d930a86e0a137dc3f63e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/70f5566e6adf4dd9d807628a9af461cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/70f5566e6adf4dd9d807628a9af461cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/20c35a210639238fdfd9e6905890ed93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/20c35a210639238fdfd9e6905890ed93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/61ac98cd643d9d9b8342b23feca0de10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/61ac98cd643d9d9b8342b23feca0de10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/2effdb7153e103f98e1a4f5525ccf00b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/2effdb7153e103f98e1a4f5525ccf00b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/1ba48e4fd9b2ff14b4d8daaa6a61b975/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/1ba48e4fd9b2ff14b4d8daaa6a61b975/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/d23e10282731aa73f0c70328d24a1aab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/d23e10282731aa73f0c70328d24a1aab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/9de5801571d6e30ea0dd47260734bd13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/9de5801571d6e30ea0dd47260734bd13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/8e338c9f35b4acfa3cba192d2be38acd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/8e338c9f35b4acfa3cba192d2be38acd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/1a13eb1d1238a510489a12ed83641ddf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/1a13eb1d1238a510489a12ed83641ddf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d190305f10c33407359a38515730b147/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d190305f10c33407359a38515730b147/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/830fda8ea90ce7de0ab1a2e0db1efd8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/830fda8ea90ce7de0ab1a2e0db1efd8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/68ee2cb9a127394c61004e3d581463a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/68ee2cb9a127394c61004e3d581463a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/a47358d3bad235cfc983b6a426003584/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/a47358d3bad235cfc983b6a426003584/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/663f7db883cf45b79c97871a11500b02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/663f7db883cf45b79c97871a11500b02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b0031fe2dde84c486740955a26f19eed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b0031fe2dde84c486740955a26f19eed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/eb4806682a5a1d6030ad75e3b024b904/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/eb4806682a5a1d6030ad75e3b024b904/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/019f7bfc70d9f86edbc39494b87c2c29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/019f7bfc70d9f86edbc39494b87c2c29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/49025b82a2be1f5f289ab4a27ddfcec7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/49025b82a2be1f5f289ab4a27ddfcec7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/af697b66c7abe17766619d9cf80809fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/af697b66c7abe17766619d9cf80809fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/bf2873121080241561bd012d51d9e872/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/bf2873121080241561bd012d51d9e872/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/66797d9fb16fea1d2667b6fba23ceae2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/66797d9fb16fea1d2667b6fba23ceae2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5dd050f4429889eaf63fe1de1b39039f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5dd050f4429889eaf63fe1de1b39039f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/b4742f1403ffe46a8fb87bec6c1322dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/b4742f1403ffe46a8fb87bec6c1322dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ae447fbca77c53de27580c5119ef3e7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ae447fbca77c53de27580c5119ef3e7d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/android/app/src/main/AndroidManifest.xml
-activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
-ADDED from [:url_launcher] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
-	android:exported
-		ADDED from [:url_launcher] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
-	android:theme
-		ADDED from [:url_launcher] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
-	android:name
-		ADDED from [:url_launcher] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-92
+		INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tushar/AndroidStudioProjects/combined_flutter_app/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+		ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+		ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
 uses-permission#android.permission.CAMERA
-ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-65
+ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-62
+		ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-62
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
 	android:grantUriPermissions
-		ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+		ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
 	android:authorities
-		ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-74
+		ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-74
 	android:exported
-		ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+		ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-82
+		ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-82
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:75
+ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:75
 	android:resource
-		ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-72
+		ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-72
 	android:name
-		ADDED from [:image_picker] /Users/tushar/Documents/Development/Flutter_projects/FlutterCourseApp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:23:5-79
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:23:22-76
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:26:5-28:35
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:27:9-41
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:28:9-32
-uses-library#org.apache.http.legacy
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:33:9-35:40
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:35:13-37
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/2b84c6921e3e27cdb9281172338f92db/AndroidManifest.xml:34:13-50
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/f3d47a9fd63c96e14e94d2cb514ebf34/AndroidManifest.xml:23:9-26:75
+		ADDED from [:image_picker] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
+ADDED from [:url_launcher] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/f3d47a9fd63c96e14e94d2cb514ebf34/AndroidManifest.xml:25:13-37
+		ADDED from [:url_launcher] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/f3d47a9fd63c96e14e94d2cb514ebf34/AndroidManifest.xml:26:13-72
+		ADDED from [:url_launcher] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/f3d47a9fd63c96e14e94d2cb514ebf34/AndroidManifest.xml:24:13-79
+		ADDED from [:url_launcher] /Users/tushar/AndroidStudioProjects/combined_flutter_app/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-92
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-16.1.0.aar/eac043bbde1c11bd6d889de1a5aad762/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/71696f7f5bd3a9337e3e0f8a510958dc/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/71696f7f5bd3a9337e3e0f8a510958dc/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/71696f7f5bd3a9337e3e0f8a510958dc/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/tushar/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/71696f7f5bd3a9337e3e0f8a510958dc/AndroidManifest.xml:24:13-79

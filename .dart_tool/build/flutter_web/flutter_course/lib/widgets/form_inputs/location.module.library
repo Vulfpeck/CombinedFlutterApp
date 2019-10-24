@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","http|lib/http.dart","location|lib/location.dart","flutter_course|lib/models/location_data.dart","flutter_course|lib/models/product.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}
