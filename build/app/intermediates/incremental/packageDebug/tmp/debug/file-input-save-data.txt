@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Oct 24 17:57:10 IST 2019
+#Thu Oct 24 18:13:11 IST 2019
 4.path=flutter_assets/assets/background.jpg
 13.baseType=DIRECTORY
 8.set=NATIVE_RESOURCE

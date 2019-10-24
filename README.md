@@ -10,6 +10,9 @@ A Flutter app that implements various functionalities such as
   <li>Some slick animations</li>
 </ol>
 
+#Screenshots
+![App screenshots] (https://raw.githubusercontent.com/Vulfpeck/CombinedFlutterApp/update_readme_branch/img.png)
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
