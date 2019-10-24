@@ -1,4 +1,5 @@
 import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:scoped_model/scoped_model.dart';
 
@@ -59,6 +60,7 @@ class _ProductEditPageState extends State<ProductEditPage> {
         if (value.isEmpty || value.length < 5) {
           return 'Title is required and should be 5+ characters long.';
         }
+        return "";
       },
       controller: _titleTextEditController,
       onSaved: (String value) {
@@ -87,6 +89,7 @@ class _ProductEditPageState extends State<ProductEditPage> {
         if (value.isEmpty || value.length < 10) {
           return 'Description is required and should be 10+ characters long.';
         }
+        return "";
       },
       onSaved: (String value) {
         _formData['description'] = _descriptionTextEditController.text;
@@ -114,6 +117,7 @@ class _ProductEditPageState extends State<ProductEditPage> {
             !RegExp(r'^(?:[1-9]\d*|0)?(?:[.,]?\d+)r?$').hasMatch(value)) {
           return 'Price is required and should be a number.';
         }
+        return "";
       },
     );
   }
@@ -189,7 +193,8 @@ class _ProductEditPageState extends State<ProductEditPage> {
   void _submitForm(
       Function addProduct, Function updateProduct, Function setSelectedProduct,
       [int selectedProductIndex]) {
-    if (!_formKey.currentState.validate() || (_formData['image'] == null && selectedProductIndex == -1)) {
+    if (!_formKey.currentState.validate() ||
+        (_formData['image'] == null && selectedProductIndex == -1)) {
       return;
     }
     _formKey.currentState.save();
@@ -198,7 +203,9 @@ class _ProductEditPageState extends State<ProductEditPage> {
         _titleTextEditController.text,
         _descriptionTextEditController.text,
         _formData['image'],
-        double.parse(_priceTextEditController.text.replaceFirst(RegExp(','), '.'),),
+        double.parse(
+          _priceTextEditController.text.replaceFirst(RegExp(','), '.'),
+        ),
         _formData['location'],
       ).then((bool success) {
         if (success) {
@@ -225,7 +232,9 @@ class _ProductEditPageState extends State<ProductEditPage> {
         _titleTextEditController.text,
         _descriptionTextEditController.text,
         _formData['image'],
-        double.parse(_priceTextEditController.text.replaceFirst(RegExp(','), '.'),),
+        double.parse(
+          _priceTextEditController.text.replaceFirst(RegExp(','), '.'),
+        ),
         _formData['location'],
       ).then((_) => Navigator.pushReplacementNamed(context, '/products'));
     }

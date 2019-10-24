@@ -9,11 +9,11 @@ import 'package:rxdart/subjects.dart';
 import 'package:scoped_model/scoped_model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import '../global_config.dart';
 import '../models/auth.dart';
 import '../models/location_data.dart';
 import '../models/product.dart';
 import '../models/user.dart';
+import '../shared/global_config.dart';
 
 mixin ConnectedProductsModel on Model {
   List<Product> _products = [];
@@ -397,24 +397,33 @@ mixin UserModel on ConnectedProductsModel {
     bool hasError = true;
     String message;
     if (responseData.containsKey('idToken')) {
+      print("here");
       hasError = false;
       message = 'Authentication Succeeded';
       _authenticatedUser = User(
           id: responseData['localId'],
           email: email,
           token: responseData['idToken']);
-
-      setAuthTimeout(int.parse(responseData['expiresIn']));
-      _userSubject.add(true);
-      // store everything in the local storage using SharedPreferences
-      final SharedPreferences prefs = await SharedPreferences.getInstance();
-      final DateTime now = DateTime.now();
-      final DateTime expiryTime =
-          now.add(Duration(seconds: int.parse(responseData['expiresIn'])));
-      prefs.setString('token', responseData['idToken']);
-      prefs.setString('userEmail', email);
-      prefs.setString('userId', responseData['localId']);
-      prefs.setString('expiryTime', expiryTime.toIso8601String());
+      print("here again");
+      try {
+        setAuthTimeout(int.parse(responseData['expiresIn']));
+        _userSubject.add(true);
+        // store everything in the local storage using SharedPreferences
+        final SharedPreferences prefs = await SharedPreferences.getInstance();
+        final DateTime now = DateTime.now();
+        final DateTime expiryTime =
+            now.add(Duration(seconds: int.parse(responseData['expiresIn'])));
+        prefs.setString('token', responseData['idToken']);
+        prefs.setString('userEmail', email);
+        prefs.setString('userId', responseData['localId']);
+        prefs.setString('expiryTime', expiryTime.toIso8601String());
+        prefs.get("userEmail");
+      } catch (e) {
+        print(e);
+        _isLoading = false;
+        notifyListeners();
+        return {"success": false};
+      }
     } else if (responseData['error']['message'] == 'EMAIL_EXISTS') {
       message = 'This email not found';
     } else if (responseData['error']['message'] == 'INVALID_PASSWORD') {
@@ -428,6 +437,7 @@ mixin UserModel on ConnectedProductsModel {
       'success': !hasError,
       'message': message,
     };
+    print("**** returning to funciton");
     _isLoading = false;
     notifyListeners();
     return result;

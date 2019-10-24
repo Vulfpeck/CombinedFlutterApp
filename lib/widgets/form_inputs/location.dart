@@ -7,7 +7,6 @@ import 'package:location/location.dart' as geoloc;
 import '../../models/location_data.dart';
 import '../../models/product.dart';
 
-
 class LocationInput extends StatefulWidget {
   final Function setLocation;
   final Product product;
@@ -172,6 +171,7 @@ class _LocationInputState extends State<LocationInput> {
             if (_locationData == null || value.isEmpty) {
               return 'No valid location found';
             }
+            return "";
           },
           decoration: InputDecoration(
             labelText: 'Enter the address',

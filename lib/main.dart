@@ -30,6 +30,16 @@ class _MyAppState extends State<MyApp> {
   final MainModel _model = MainModel();
   bool _isAuthenticated = false;
 
+  void initState() {
+    _model.autoAuthenticate();
+    _model.userSubject.listen((bool isAuthenticated) {
+      setState(() {
+        _isAuthenticated = isAuthenticated;
+      });
+    });
+    super.initState();
+  }
+
   Future<Null> _getBatteryLevel() async {
     String batteryLevel;
     try {
@@ -40,18 +50,6 @@ class _MyAppState extends State<MyApp> {
       batteryLevel = 'failed to get battery level';
     }
     print(batteryLevel);
-  }
-
-  @override
-  void initState() {
-    _model.autoAuthenticate();
-    _model.userSubject.listen((bool isAuthenticated) {
-      setState(() {
-        _isAuthenticated = isAuthenticated;
-      });
-    });
-    _getBatteryLevel();
-    super.initState();
   }
 
   @override

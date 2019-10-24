@@ -144,9 +144,13 @@ class _AuthPageState extends State<AuthPage> with TickerProviderStateMixin {
     Map<String, dynamic> successInformation;
 
     successInformation = await authenticate(
-        _emailTextController.text, _passwordTextController.text, _authMode);
+      _emailTextController.text,
+      _passwordTextController.text,
+      _authMode,
+    );
     if (successInformation['success']) {
-//      Navigator.pushReplacementNamed(context, '/');
+      print("****** success ****");
+      Navigator.pushReplacementNamed(context, '/');
     } else {
       showDialog(
           context: context,
@@ -383,13 +387,16 @@ class _AuthPageState extends State<AuthPage> with TickerProviderStateMixin {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
+                  SizedBox(
+                    height: 24.0,
+                  ),
                   Text(
-                    "EASYLIST",
+                    "Meme Bucket",
                     style: TextStyle(
                       color: Theme.of(context).primaryColor,
                       fontWeight: FontWeight.w200,
-                      letterSpacing: 15.0,
-                      fontSize: 56.0,
+                      letterSpacing: 5.0,
+                      fontSize: 32.0,
                     ),
                   ),
                   SizedBox(
