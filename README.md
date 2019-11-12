@@ -11,7 +11,7 @@ A Flutter app that implements various functionalities such as
 </ol>
 
 #Screenshots
-![App screenshots] (https://raw.githubusercontent.com/Vulfpeck/CombinedFlutterApp/update_readme_branch/img.png)
+![App screenshots](https://raw.githubusercontent.com/Vulfpeck/CombinedFlutterApp/update_readme_branch/img.png)
 
 ## Getting Started
 
